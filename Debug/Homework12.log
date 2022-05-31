@@ -1,0 +1,7 @@
+﻿  func.cpp
+C:\Users\Artem\source\repos\Homework12\func.cpp(3,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Homework12.cpp
+C:\Users\Artem\source\repos\Homework12\Homework12.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Artem\source\repos\Homework12\Homework12.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Homework12.vcxproj -> C:\Users\Artem\source\repos\Homework12\Debug\Homework12.exe
